@@ -10,9 +10,9 @@ I also teach IT in college, so a big part of my work is helping people use AI we
 
 Based in Pangasinan, Philippines. Open to remote work.
 
-[![Available for Work](https://img.shields.io/badge/Available_for_Work-brightgreen?style=flat-square)](https://carlowenbelen.com)
+[![Available for Work](https://img.shields.io/badge/Available_for_Work-brightgreen?style=flat-square)](https://carlowenbelen.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-carlowenbelen-181717?style=flat-square&logo=github)](https://github.com/carlowenbelen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-carlowenbelen.com-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://carlowenbelen.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-carlowenbelen.github.io-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://carlowenbelen.github.io)
 
 ---
 
@@ -221,7 +221,7 @@ Private for now
 </tr>
 </table>
 
-🌐 **More about me**: [carlowenbelen.com](https://carlowenbelen.com)
+🌐 **More about me**: [carlowenbelen.github.io](https://carlowenbelen.github.io)
 
 ---
 
@@ -291,7 +291,7 @@ Private for now
 
 I'm open to remote work in AI engineering, AI automation and AI video editing, and to client builds.
 
-- **Portfolio**: [carlowenbelen.com](https://carlowenbelen.com)
+- **Portfolio**: [carlowenbelen.github.io](https://carlowenbelen.github.io)
 - **GitHub**: [github.com/carlowenbelen](https://github.com/carlowenbelen)
 
 ---
