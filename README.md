@@ -1,7 +1,7 @@
 # Hey, I'm Owen 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+Automation+%7C+AI+Video;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer: automation and AI video. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+AI+Agents+%7C+Automation;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer: AI agents and automation. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
 </div>
 
 **AI Engineer.** I build AI tools, agents and automations that turn slow, manual work into fast, reliable workflows: video editing, documents, research, classroom tasks and trading analysis. Most of my building now runs through Claude Code, with custom skills, MCP servers and automatic quality checks that I set up myself.
