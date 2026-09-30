@@ -23,7 +23,7 @@ Based in Pangasinan, Philippines. Open to remote work.
 | Project | What the AI actually does |
 | --- | --- |
 | **AI Video Editing Pipeline** | Turns raw footage into a finished YouTube video or Short. Whisper transcribes on the GPU, and a rough-cut engine removes fillers, stutters and retakes. It then adds HyperFrames motion graphics, captions, sound effects, music ducking and -14 LUFS loudness. Claude plans the edit, and the laptop does the rendering. |
-| **TradingView Market-Data MCP Server** | 21 tools that let Claude screen thousands of symbols, pull technical ratings, export historical bars, run backtests and scaffold Pine Script. It runs locally and uses no API credits. |
+| **TradingView MCP Upgrade** | I upgraded Moon Dev's open-source TradingView MCP server, which lets Claude write, compile-check and chart Pine Script on a live chart. I added 5 tools: 4 self-healing browser controls and an OHLC reader. I also rewrote the backtest and timeframe tools with fallbacks after TradingView's September 2026 layout change. |
 | [**Swarm AI**](https://github.com/carlowenbelen/swarm-ai) | Five Claude agents with different personas answer one hard question in parallel. A synthesizer agent then writes the consensus with an agreement score. |
 | [**CVE Watchlist**](https://github.com/carlowenbelen/cve-watchlist) | Pulls new CVEs from the NIST database and keeps only the ones that hit your tech stack. Claude then turns them into a plain-English security briefing, with fixes. |
 | **Faceless YouTube Automation** | Claude Code writes original stories. Free text-to-speech narrates them with synced captions, and FFmpeg builds 8 to 25 minute compilations on a daily schedule. |
@@ -96,7 +96,7 @@ I test every tool on real files before I call it finished.
 
 **AI media pipelines.** Speech-to-text, automatic editing, captions, motion graphics and photo restoration, all running locally on a laptop GPU.
 
-**Claude tooling.** MCP servers, custom skills and project memory that make Claude useful for real work, not just chat.
+**Claude tooling.** MCP integrations, custom skills and project memory that make Claude useful for real work, not just chat.
 
 **Security-minded building.** I'm taking a Master in IT (Cybersecurity). I keep secrets out of code and use safe defaults.
 
@@ -232,7 +232,7 @@ Private for now
 | What | Figure |
 | :--- | :--- |
 | Tools in my offline PDF toolkit | 31 |
-| Tools in my market-data MCP server | 21 |
+| Tools I added to an open-source MCP server | 5 |
 | Motion-graphic templates in my video pipeline | 10 |
 | Rough cut of a 3-minute video | about 60 seconds |
 | Lesson prep time saved with AI | 40% |
