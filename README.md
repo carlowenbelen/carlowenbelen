@@ -1,12 +1,12 @@
 # Hey, I'm Owen 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+IT+Educator;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer and IT educator. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+Automation+%7C+AI+Video;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer: automation and AI video. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
 </div>
 
-**AI Engineer and IT educator.** I build AI tools, agents and automations that turn slow, manual work into fast, reliable workflows: video editing, documents, research, classroom tasks and trading analysis. Most of my building now runs through Claude Code, with custom skills, MCP servers and automatic quality checks that I set up myself.
+**AI Engineer.** I build AI tools, agents and automations that turn slow, manual work into fast, reliable workflows: video editing, documents, research, classroom tasks and trading analysis. Most of my building now runs through Claude Code, with custom skills, MCP servers and automatic quality checks that I set up myself.
 
-I also teach IT in college, so a big part of my work is helping people use AI well.
+Until 2026 I taught IT in college, so a big part of my work is helping people use AI well.
 
 Based in Pangasinan, Philippines. Open to remote work.
 
@@ -23,7 +23,7 @@ Based in Pangasinan, Philippines. Open to remote work.
 | Project | What the AI actually does |
 | --- | --- |
 | **AI Video Editing Pipeline** | Turns raw footage into a finished YouTube video or Short. Whisper transcribes on the GPU, and a rough-cut engine removes fillers, stutters and retakes. It then adds HyperFrames motion graphics, captions, sound effects, music ducking and -14 LUFS loudness. Claude plans the edit, and the laptop does the rendering. |
-| **TradingView MCP Upgrade** | I upgraded Moon Dev's open-source TradingView MCP server, which lets Claude write, compile-check and chart Pine Script on a live chart. I added 5 tools: 4 self-healing browser controls and an OHLC reader. I also rewrote the backtest and timeframe tools with fallbacks after TradingView's September 2026 layout change. |
+| **TradingView MCP Upgrade** | I upgraded an open-source TradingView MCP server that lets Claude write, compile-check and chart Pine Script on a live chart. I added 5 tools: 4 self-healing browser controls and an OHLC reader. I also rewrote the backtest and timeframe tools with fallbacks after TradingView's September 2026 layout change. |
 | [**Swarm AI**](https://github.com/carlowenbelen/swarm-ai) | Five Claude agents with different personas answer one hard question in parallel. A synthesizer agent then writes the consensus with an agreement score. |
 | [**CVE Watchlist**](https://github.com/carlowenbelen/cve-watchlist) | Pulls new CVEs from the NIST database and keeps only the ones that hit your tech stack. Claude then turns them into a plain-English security briefing, with fixes. |
 | **Faceless YouTube Automation** | Claude Code writes original stories. Free text-to-speech narrates them with synced captions, and FFmpeg builds 8 to 25 minute compilations on a daily schedule. |
@@ -100,7 +100,7 @@ I test every tool on real files before I call it finished.
 
 **Security-minded building.** I'm taking a Master in IT (Cybersecurity). I keep secrets out of code and use safe defaults.
 
-**Teaching AI.** I teach web development and security in college, using Claude, Gemini and NotebookLM in class.
+**Teaching AI.** I taught web development and security in college, with Claude, Gemini and NotebookLM built into my classes.
 
 ---
 
@@ -115,7 +115,7 @@ I test every tool on real files before I call it finished.
 
 A few highlights:
 
-- **Teaching.** I teach Web Development and Security courses with Claude, Gemini and NotebookLM built in. AI-assisted workflows cut my lesson prep time by 40%. I also built a NotebookLM research base of 50+ cybersecurity papers and virtual labs for penetration-testing practice.
+- **Teaching (2025 to 2026).** I taught Web Development and Security courses with Claude, Gemini and NotebookLM built in. AI-assisted workflows cut my lesson prep time by 40%. I also built a NotebookLM research base of 50+ cybersecurity papers and virtual labs for penetration-testing practice.
 - **Freelance.** I automated data-analysis and code-generation workflows with AI to cut client turnaround time. I also built a browser-based interactive learning app in JavaScript for an education client.
 
 ---
