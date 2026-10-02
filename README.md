@@ -13,6 +13,7 @@ Based in Pangasinan, Philippines. Open to remote work.
 [![Available for Work](https://img.shields.io/badge/Available_for_Work-brightgreen?style=flat-square)](https://carlowenbelen.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-carlowenbelen-181717?style=flat-square&logo=github)](https://github.com/carlowenbelen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-carlowenbelen.github.io-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://carlowenbelen.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlowenbelen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlowenbelen)
 
 ---
 
