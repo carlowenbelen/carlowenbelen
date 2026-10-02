@@ -1,10 +1,10 @@
 # Hey, I'm Owen 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+AI+Agents+%7C+Automation;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer: AI agents and automation. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+AI+Video+Editor+%7C+AI+Agents;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer and AI Video Editor: AI agents and automation. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
 </div>
 
-**AI Engineer.** I build AI tools, agents and automations that turn slow, manual work into fast, reliable workflows: video editing, documents, research, classroom tasks and trading analysis. Most of my building now runs through Claude Code, with custom skills, MCP servers and automatic quality checks that I set up myself.
+**AI Engineer & AI Video Editor.** I build AI tools, agents and automations that turn slow, manual work into fast, reliable workflows: video editing, documents, research, classroom tasks and trading analysis. I also edit short-form videos (reels, podcast clips and mini documentaries) with the AI editing pipeline I built. Most of my building now runs through Claude Code, with custom skills, MCP servers and automatic quality checks that I set up myself.
 
 Until 2026 I taught IT in college, so a big part of my work is helping people use AI well.
 
@@ -93,6 +93,8 @@ I test every tool on real files before I call it finished.
 ## 🛠️ What I specialize in
 
 **AI workflow automation.** I take a slow manual process, like editing a video, encoding exam questions or fixing PDFs, and turn it into a one-command tool.
+
+**AI video editing.** Story-first short-form edits: reels, podcast clips and mini documentaries with clean captions, motion graphics, sound design and colour matched to a reference video.
 
 **AI media pipelines.** Speech-to-text, automatic editing, captions, motion graphics and photo restoration, all running locally on a laptop GPU.
 
