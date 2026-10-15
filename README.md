@@ -1,10 +1,10 @@
 # Hey, I'm Owen 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+AI+Video+Editor+%7C+AI+Agents;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer and AI Video Editor: AI agents and automation. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=50&lines=AI+Engineer+%7C+AI+Video+Editor+%7C+AI+Agents;SEO+%7C+Copywriting+%7C+AI+Automation;Claude+%7C+Claude+Code+%7C+MCP+%7C+AI+Agents;Python+%7C+Whisper+%7C+FFmpeg+%7C+HyperFrames;Turning+slow+manual+work+into+fast+AI+workflows" alt="AI Engineer and AI Video Editor: AI agents and automation. SEO and copywriting. Claude, Claude Code, MCP and AI agents. Python, Whisper, FFmpeg and HyperFrames." />
 </div>
 
-**AI Engineer & AI Video Editor.** I build AI tools, agents and automations that turn slow, manual work into fast, reliable workflows: video editing, documents, research, classroom tasks and trading analysis. I also edit short-form videos (reels, podcast clips and mini documentaries) with the AI editing pipeline I built. Most of my building now runs through Claude Code, with custom skills, MCP servers and automatic quality checks that I set up myself.
+**AI Engineer & AI Video Editor.** I build AI tools, agents and automations that turn slow, manual work into fast, reliable workflows: video editing, documents, research, classroom tasks and trading analysis. I also edit long-form and short-form video (YouTube documentaries, reels and podcast clips) with the AI editing pipeline I built, and I write SEO titles, descriptions, tags and ad scripts. Most of my building now runs through Claude Code, with custom skills, MCP servers and automatic quality checks that I set up myself.
 
 Until 2026 I taught IT in college, so a big part of my work is helping people use AI well.
 
@@ -24,6 +24,7 @@ Based in Pangasinan, Philippines. Open to remote work.
 | Project | What the AI actually does |
 | --- | --- |
 | **AI Video Editing Pipeline** | Turns raw footage into a finished YouTube video or Short. Whisper transcribes on the GPU, and a rough-cut engine removes fillers, stutters and retakes. It then adds HyperFrames motion graphics, captions, sound effects, music ducking and -14 LUFS loudness. Claude plans the edit, and the laptop does the rendering. |
+| **Job Hunt Agent** | My daily job assistant. Every 30 minutes it reads job pages and official job feeds and scores each post by my rules. Claude then reviews it and answers in a fixed JSON format: a verdict, the risks and a draft letter written only from my facts file. It never logs in or applies; I send everything myself. 1,793 jobs tracked, 25 automated tests. |
 | **TradingView MCP Upgrade** | I upgraded an open-source TradingView MCP server that lets Claude write, compile-check and chart Pine Script on a live chart. I added 5 tools: 4 self-healing browser controls and an OHLC reader. I also rewrote the backtest and timeframe tools with fallbacks after TradingView's September 2026 layout change. |
 | [**Swarm AI**](https://github.com/carlowenbelen/swarm-ai) | Five Claude agents with different personas answer one hard question in parallel. A synthesizer agent then writes the consensus with an agreement score. |
 | [**CVE Watchlist**](https://github.com/carlowenbelen/cve-watchlist) | Pulls new CVEs from the NIST database and keeps only the ones that hit your tech stack. Claude then turns them into a plain-English security briefing, with fixes. |
@@ -95,9 +96,11 @@ I test every tool on real files before I call it finished.
 
 **AI workflow automation.** I take a slow manual process, like editing a video, encoding exam questions or fixing PDFs, and turn it into a one-command tool.
 
-**AI video editing.** Story-first short-form edits: reels, podcast clips and mini documentaries with clean captions, motion graphics, sound design and colour matched to a reference video.
+**AI video editing.** Story-first long-form and short-form edits: YouTube documentaries, reels and podcast clips with clean captions, motion graphics, sound design and colour matched to a reference video.
 
 **AI media pipelines.** Speech-to-text, automatic editing, captions, motion graphics and photo restoration, all running locally on a laptop GPU.
+
+**SEO and copywriting.** Plain, clear copy and pages that search engines and AI answers can understand: the right page type for each search, keywords in the basic places, simple pages, and a human check on every AI draft. I use it on my own site, YouTube channel and LinkedIn, and for video ad hooks and scripts.
 
 **Claude tooling.** MCP integrations, custom skills and project memory that make Claude useful for real work, not just chat.
 
@@ -114,7 +117,7 @@ I test every tool on real files before I call it finished.
 | 2025 - 2026 | College Instructor, College of Information Technology | **University of Eastern Pangasinan** | Binalonan, PH |
 | 2022 - 2026 | AI and Web Specialist | **Freelance** | Remote |
 | 2020 - 2021 | Inventory and Expenses Associate | **Jhonever Metal Corporation** | Pangasinan, PH |
-| 2019 | IT Support Team Leader | **Bonsai Liga** | Binalonan, PH |
+| 2019 | IT Support Team Leader (volunteer) | **Bonsai Liga** | Binalonan, PH |
 
 A few highlights:
 
@@ -292,10 +295,11 @@ Private for now
 
 ## 📬 Get in touch
 
-I'm open to remote work in AI engineering, AI automation and AI video editing, and to client builds.
+I'm open to remote work in AI engineering, AI automation, AI video editing, SEO and copywriting, and to client builds.
 
 - **Portfolio**: [carlowenbelen.github.io](https://carlowenbelen.github.io)
 - **GitHub**: [github.com/carlowenbelen](https://github.com/carlowenbelen)
+- **LinkedIn**: [linkedin.com/in/carlowenbelen](https://www.linkedin.com/in/carlowenbelen)
 
 ---
 
